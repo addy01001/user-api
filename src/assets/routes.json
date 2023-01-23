@@ -1,0 +1,23 @@
+{
+  "excludedRoutes": {
+    "get": [
+      "/"
+    ],
+    "put": [
+      "/"
+    ],
+    "post": [
+      "/login",
+      "/users"
+    ],
+    "patch": [
+      "/"
+    ],
+    "delete": [
+      "/"
+    ],
+    "all": [
+      "/"
+    ]
+  }
+}
